@@ -1,0 +1,13 @@
+numpy
+pandas
+Pillow
+PyYAML
+scikit-image
+tqdm
+matplotlib
+lpips
+pytorch-ignite
+POT
+torchdiffeq
+torch
+torchvision

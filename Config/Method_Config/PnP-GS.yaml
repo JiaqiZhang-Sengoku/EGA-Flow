@@ -1,0 +1,7 @@
+METHOD:
+    max_iter: 20
+    lr_pnp: 1.0
+    alpha: 0.5
+    algo: 'pgd'
+    sigma_factor: 1.0
+    gradient_step_checkpoint: ''
