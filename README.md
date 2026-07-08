@@ -17,15 +17,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="license">
 </p>
 
-<p align="center">
-  <a href="#abstract">Abstract</a> |
-  <a href="#key-features">Key Features</a> |
-  <a href="#quantitative-and-qualitative-analysis">Quantitative & Qualitative Analysis</a> |
-  <a href="#installation--usage">Installation & Usage</a> |
-  <a href="#metrics">Metrics</a> |
-  <a href="#repository-structure">Project Structure</a>
-</p>
-
 ---
 
 
