@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Task-Image%20Restoration-2f6fed" alt="task">
-  <img src="https://img.shields.io/badge/Method-EGA--Flow-7c3aed" alt="method">
-  <img src="https://img.shields.io/badge/Modules-Endpoint%20Gradient%20Alignment%20%7C%20Flow%20Matching-0f766e" alt="modules">
-  <img src="https://img.shields.io/badge/Datasets-CelebA%20%7C%20AFHQ--Cat-f59e0b" alt="datasets">
   <img src="https://img.shields.io/badge/Python-3.10-blue" alt="python">
   <img src="https://img.shields.io/badge/PyTorch-2.7.0%2B-ee4c2c" alt="pytorch">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="license">
